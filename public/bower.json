@@ -1,0 +1,14 @@
+{
+  "name": "pruebalaravel",
+  "version": "0.0.1",
+  "description": "Fronted Pruebalaravel",
+  "authors": [
+    "Ricardo Uricoechea"
+  ],
+  "license": "MIT",
+  "homepage": "pruebalaravel.ur",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-materil-design": "~0.3.0"
+   }
+}
